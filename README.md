@@ -69,4 +69,4 @@ Demo accounts:
 | Name | GitHub |
 |---|---|
 | Mohammed Mashrekin Yakub | [@mash-yk](https://github.com/mash-yk) |
-| Faiza Zaman | [zamanfaiza19](https;//github.com/zamanfaiza19) |
+| Faiza Zaman | [zamanfaiza19](https://github.com/zamanfaiza19) |
