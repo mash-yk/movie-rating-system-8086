@@ -66,7 +66,9 @@ Demo accounts:
 
 ## Team
 
-| Name | GitHub |
-|---|---|
-| Mohammed Mashrekin Yakub | [@mash-yk](https://github.com/mash-yk) |
-| Faiza Zaman | [zamanfaiza19](https://github.com/zamanfaiza19) |
+## Team
+
+| Name | GitHub | Contributions |
+|---|---|---|
+| Mohammed Mashrekin Yakub | [@mash-yk](https://github.com/mash-yk) | Admin login and menu; adding, editing and deleting movies and reviews; movie database layout and preloaded movies; shared input/output and string routines |
+| Faiza Zaman | [@zamanfaiza19](https://github.com/zamanfaiza19) | User login and registration; user menu; rating, reviews, search and highest-rated movie; movie display |
